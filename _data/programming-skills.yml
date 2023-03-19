@@ -1,0 +1,19 @@
+- name: C#
+  percentage: 95
+  color: danger
+
+- name: ASP.NET / ASP.NET Core
+  percentage: 90
+  color: success
+
+- name: Azure
+  percentage: 95
+  color:
+
+- name: Azure DevOps CI/CD
+  percentage: 95
+  color: info
+
+- name: MSSQL
+  percentage: 85
+  color: secondary
