@@ -103,13 +103,13 @@ skills:
         text: "From 2014 all my projects are hosted on Azure cloud. Architecting, designing and developing cloud solutions using Azure cloud services"
         value: "75" #0-100 progress in %
 
-      - label: "Jira / Confluence" #0-10 progress in dots
-        text: "Using Jira and Confluence to manage and track software development projects. Agile methodologies to deliver high quality software solutions"
-        value: "50" #0-100 progress in %
-
       - label: "ASP.NET MVC" #0-10 progress in dots
         text: "Frontend development using AS.NET MVC. Creating responsive and user friendly web applications"
         value: "70" #0-100 progress in %
+
+      - label: "Jira / Confluence" #0-10 progress in dots
+        text: "Using Jira and Confluence to manage and track software development projects. Agile methodologies to deliver high quality software solutions"
+        value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -120,38 +120,38 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Exam 483, Programming in C#"
+        subname: "Microsoft"
+        period: "2018"
+        text: ""
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Exam 70-536 — TS: Microsoft .NET Framework - Application Development Foundation"
+        subname: "Microsoft"
+        period: "2008"
+        text: ""
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Técnico Superior en Administración de Sistemas Informáticos y Redes"
+        subname: "Instituto Nº 1, Fuengirola"
+        period: "2003 - 2005"
+        text: ""
 
   experience:
     title: "Experience"
     items:
-      - name: "Connectorfy"
-        subname: "Soft Tech Inc."
+      - name: "Technical Lead, Product Owner"
+        subname: "Connectorfy"
         period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "As a Technical Lead and Data Analyst, I led a team in creating a real-time data collection system from scratch"
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Co-founder, CTO, Technical Lead"
+        subname: "Siros Management Solutions"
+        period: "2014 - 2022"
+        text: "As a Technical Lead and Senior Backend Developer at Siros, I led the design and development of high-quality and scalable software for the management of tourism companies"
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "Business Analyst, Software Architect"
+        subname: "Leisure Dimensions Limited"
+        period: "2005 - 2014"
+        text: "As a Technical Lead and Senior Backend Developer at Siros, I led the design and development of high-quality and scalable software for the management of tourism companies"
 
 
 ### Testimonials [ testimonials ]
