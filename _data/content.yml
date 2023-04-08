@@ -78,9 +78,9 @@ skills:
         text: "Creating serverless functions using Azure Functions. Creating scalable and secure cloud solutions"
         value: "70" #0-100 progress in %
 
-      - label: "ASP.NET MVC" #0-10 progress in dots
-        text: "Frontend development using AS.NET MVC. Creating responsive and user friendly web applications"
-        value: "70" #0-100 progress in %
+      - label: "Azure DevOps" #0-10 progress in dots
+        text: "Building CI/CD pipelines using Azure DevOps. Creating automated build and deployment pipelines for .NET applications, databases and Azure infrastructure"
+        value: "90" #0-100 progress in %
 
   column2:
     items:
@@ -88,13 +88,13 @@ skills:
         text: "Database design, architecture and development using T-SQL. MSSQL on-premise and Azure SQL Database"
         value: "75" #0-100 progress in %
 
-      - label: "Azure Data Factory" #0-10 progress in dots
-        text: "Azure Data Factory certified developer. Creating data pipelines using Azure Data Factory. Extracting, transforming and loading data from different sources"
-        value: "70" #0-100 progress in %
-
       - label: "Azure Databricks & PySpark"
         text: "Creating data pipelines using Azure Databricks. Extracting, transforming and loading data from different sources"
         value: "50" #0-100 progress in %
+
+      - label: "Azure Data Factory" #0-10 progress in dots
+        text: "Azure Data Factory certified developer. Creating data pipelines using Azure Data Factory. Extracting, transforming and loading data from different sources"
+        value: "70" #0-100 progress in %
 
   column3:
     items:    
@@ -103,13 +103,13 @@ skills:
         text: "From 2014 all my projects are hosted on Azure cloud. Architecting, designing and developing cloud solutions using Azure cloud services"
         value: "75" #0-100 progress in %
 
-      - label: "Azure DevOps" #0-10 progress in dots
-        text: "Building CI/CD pipelines using Azure DevOps. Creating automated build and deployment pipelines for .NET applications, databases and Azure infrastructure"
-        value: "90" #0-100 progress in %
-
       - label: "Jira / Confluence" #0-10 progress in dots
         text: "Using Jira and Confluence to manage and track software development projects. Agile methodologies to deliver high quality software solutions"
         value: "50" #0-100 progress in %
+
+      - label: "ASP.NET MVC" #0-10 progress in dots
+        text: "Frontend development using AS.NET MVC. Creating responsive and user friendly web applications"
+        value: "70" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
