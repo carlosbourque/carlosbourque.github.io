@@ -71,32 +71,32 @@ skills:
   column1:
     items:
       - label: "C#" #0-10 progress in dots
-        text: ""
+        text: "C# certified developer. 10+ years of experience in C# programming. Backend development, API development using C#, Entity Framework, ASP.NET MVC, ASP.NET Core, Azure Functions."
         value: "90" #0-100 progress in %
 
       - label: "Azure" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "From 2014 all my projects are hosted on Azure cloud. Architecting, designing and developing cloud solutions using Azure cloud services. Creating scalable and secure cloud solutions."
         value: "75" #0-100 progress in %
 
   column2:
     items:
       - label: "T-SQL" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "Database design, architecture and development using T-SQL. MSSQL on-premise and Azure SQL Database."
         value: "75" #0-100 progress in %
 
       - label: "ASP.NET MVC" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "Frontend development using AS.NET MVC. Creating responsive and user friendly web applications."
         value: "70" #0-100 progress in %
 
   column3:
     items:
       - label: "Azure DevOps" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "Building CI/CD pipelines using Azure DevOps. Creating automated build and deployment pipelines for .NET applications, databases and Azure infrastructure"
         value: "90" #0-100 progress in %
 
       - label: "Jira / Confluence" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+        text: "Using Jira and Confluence to manage and track software development projects. Agile methodologies to deliver high quality software solutions."
+        value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
