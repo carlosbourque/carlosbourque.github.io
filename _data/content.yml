@@ -56,8 +56,8 @@ services:
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Team Management"
-      subtitle: "Music Writing"
+    - title: "Team Leadership"
+      subtitle: "Team Management"
       text: "Manage and lead teams of multidisciplinary professionals. Using Agile methodologies to deliver high quality software solutions."
       button_label: "See Pricing"
       button_link: "#pricing-section"
@@ -71,8 +71,8 @@ skills:
   column1:
     items:
       - label: "C#" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+        text: ""
+        value: "90" #0-100 progress in %
 
       - label: "Azure" #0-10 progress in dots
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
