@@ -252,10 +252,10 @@ contacts:
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
-###portfolio:
-###  title: "Portfolio"
-###  subtitle: "my <b>Cases</b>"
-###  bg_title: "Portfolio"
-###  button:
-###    link: "works/"
-###    label: "View More"
+portfolio:
+  title: "Portfolio"
+  subtitle: "my <b>Cases</b>"
+  bg_title: "Portfolio"
+  button:
+    link: "works/"
+    label: "View More"
