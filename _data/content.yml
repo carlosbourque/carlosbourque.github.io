@@ -141,17 +141,17 @@ resume:
       - name: "Technical Lead, Product Owner"
         subname: "Connectorfy"
         period: "2020 - <b>Present</b>"
-        text: "As a Technical Lead and Data Analyst, I led a team in creating a real-time data collection system from scratch"
+        text: "As Technical Lead and Data Analyst, I created real-time data collection system, managed Azure SQL databases, and designed ETL processes. Also utilized advanced data streaming techniques, Docker for development, and Azure DevOps for environment management. As Senior Backend Developer, designed system architecture, used Change Data Capture, and managed environments. As Data Engineer, created efficient ETL processes using Databricks, PySpark, and managed environments with Azure DevOps. Continuously improving skills in data science and technology"
 
       - name: "Co-founder, CTO, Technical Lead"
         subname: "Siros Management Solutions"
         period: "2014 - 2022"
-        text: "As a Technical Lead and Senior Backend Developer at Siros, I led the design and development of high-quality and scalable software for the management of tourism companies"
+        text: "As Technical Lead and Senior Backend Developer at Siros, I designed and developed scalable software for tourism companies, creating a customized PMS software on Microsoft Azure. I utilized Service Apps, SQL Azure, and Azure DevOps pipelines for deployment automation. Additionally, I incorporated custom control panels in Power BI for effective internal management. As a Data Engineer, I worked on image processing projects using C#, .NET Core, Azure, and Cognitive Services. I am skilled in stakeholder management, requirement gathering, and user testing. Passionate about technology and always looking for innovative solutions to technical challenges"
 
       - name: "Business Analyst, Software Architect"
         subname: "Leisure Dimensions Limited"
         period: "2005 - 2014"
-        text: "As a Technical Lead and Senior Backend Developer at Siros, I led the design and development of high-quality and scalable software for the management of tourism companies"
+        text: "As a Developer at Petchey Leisure, I led the design and development of proprietary software in .Net Framework and MSSQL for managing vacations of over 200,000 customers. I also performed business analysis and created technical specifications. Additionally, I designed and maintained web pages, developed customer management tools, online payment systems, and booking engines. My experience in creating scalable software and leading complex projects makes me an ideal candidate for Technical Lead or Data Analyst roles, with a track record of delivering innovative solutions and improving processes"
 
 
 ### Testimonials [ testimonials ]
