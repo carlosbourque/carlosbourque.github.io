@@ -174,7 +174,7 @@ pricing:
   items:
     - name: "Hourley Basis"
       center: false
-      price: "60 <b>€</b>"
+      price: "57 <b>€</b>"
       price_after: "Hour"
       text: "Value-added services such as custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting<br /><br /><br /><br /><br/>"
       list:
