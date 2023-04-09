@@ -9,7 +9,7 @@ hero:
   image_alt: "Carlos Bourque"
   title: "<b>Carlos</b> Bourque"
   before_title: "Hello, <b>my name is</b>"
-  after_title: "I am <strong>.Net Software Developer</strong>"
+  after_title: "I am Freelance <strong>.Net Software Developer</strong>"
   description: "Freelance Software Developer specialized in Azure, C# and T-SQL. Delivering scalable and secure cloud solutions. Committed to excellence and customer satisfaction."
   button1:
     label: "Download CV"
