@@ -82,6 +82,10 @@ skills:
         text: "Building CI/CD pipelines using Azure DevOps. Creating automated build and deployment pipelines for .NET applications, databases and Azure infrastructure"
         value: "90" #0-100 progress in %
 
+      - label: "Effective Collaboration" #0-10 progress in dots
+        text: "Being able to cultivate a collaborative environment, work harmoniously with interdisciplinary teams, and communicate effectively with stakeholders to achieve project goals"
+        value: "90" #0-100 progress in %
+
   column2:
     items:
       - label: "T-SQL" #0-10 progress in dots
@@ -96,6 +100,10 @@ skills:
         text: "Azure Data Factory certified developer. Creating data pipelines using Azure Data Factory. Extracting, transforming and loading data from different sources"
         value: "70" #0-100 progress in %
 
+      - label: "Adaptability" #0-10 progress in dots
+        text: "Demonstrating flexibility in adjusting to changing project requirements, technologies, and environments, and proactively finding solutions to overcome challenges"
+        value: "95" #0-100 progress in %
+
   column3:
     items:    
 
@@ -109,6 +117,10 @@ skills:
 
       - label: "Jira / Confluence" #0-10 progress in dots
         text: "Using Jira and Confluence to manage and track software development projects. Agile methodologies to deliver high quality software solutions"
+        value: "50" #0-100 progress in %
+
+      - label: "Problem Solving" #0-10 progress in dots
+        text: "Exhibiting strong analytical and critical thinking skills, along with the ability to identify and resolve complex problems, and make informed decisions to deliver optimal solutions to clients"
         value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
