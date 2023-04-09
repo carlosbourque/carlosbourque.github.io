@@ -199,7 +199,7 @@ pricing:
 
     - name: "Full Time"
       center: false
-      price: "Contact <b>Me</b"
+      price: "Contact <b>Me</b>"
       price_after: "Month"
       text: "As a full-time freelance professional working for a client, I can offer valuable services such as end-to-end software development, data analysis and insights, system architecture design and implementation, API development and integration, continuous improvement of processes and technologies, and technical consultation for strategic decision-making"
       list:
