@@ -164,7 +164,7 @@ pricing:
       center: false
       price: "60 <b>€</b>"
       price_after: "Hour"
-      text: "Value-added services such as custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting<br /><br /><br /><br />"
+      text: "Value-added services such as custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting<br /><br /><br /><br /><br/>"
       list:
         - value: "Real-time data collection system development"
           included: true
@@ -183,7 +183,7 @@ pricing:
       label: "Popular"
       price: "1.750 <b>€</b>"
       price_after: "Week"
-      text: "Comprehensive services including custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting for your projects<br /><br /><br />"
+      text: "Comprehensive services including custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting for your projects<br /><br /><br /><br/>"
       list:
         - value: "Real-time data collection system development"
           included: true
