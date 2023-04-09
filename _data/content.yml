@@ -121,7 +121,7 @@ skills:
 
       - label: "Problem Solving" #0-10 progress in dots
         text: "Exhibiting strong analytical and critical thinking skills, along with the ability to identify and resolve complex problems, and make informed decisions to deliver optimal solutions to clients"
-        value: "50" #0-100 progress in %
+        value: "90" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
