@@ -123,17 +123,17 @@ resume:
       - name: "Exam 483, Programming in C#"
         subname: "Microsoft"
         period: "2018"
-        text: ""
+        text: "After passing Exam 483, Programming in C# from Microsoft, I have gained proficiency in C# programming, object-oriented programming (OOP) principles, .NET Framework, asynchronous programming, security, testing, debugging, and performance optimization. I am now able to design and implement robust and efficient C# applications, handle exceptions, write asynchronous code, implement secure coding practices, write unit tests, and optimize performance"
 
       - name: "Exam 70-536 — TS: Microsoft .NET Framework - Application Development Foundation"
         subname: "Microsoft"
         period: "2008"
-        text: ""
+        text: "After successfully completing Exam 70-536, TS: Microsoft .NET Framework - Application Development Foundation, I have gained knowledge and skills in various aspects of application development using .NET Framework. This includes understanding of CLR, assemblies, types, collections, I/O operations, debugging, threading, security, data access, and XML processing. I am now proficient in developing applications using .NET Framework, handling exceptions, debugging and testing, working with data and XML, and implementing multithreading and security measures in my applications"
 
       - name: "Técnico Superior en Administración de Sistemas Informáticos y Redes"
         subname: "Instituto Nº 1, Fuengirola"
         period: "2003 - 2005"
-        text: ""
+        text: "After completing my Técnico Superior en Administración de Sistemas Informáticos y Redes, I have gained comprehensive knowledge and skills in system administration, networking, and IT management. This includes proficiency in managing operating systems, configuring networks, troubleshooting hardware and software issues, implementing security measures, and managing IT infrastructure. I am now equipped with the expertise needed to effectively administer and manage complex IT systems, networks, and infrastructure, ensuring their smooth operation and optimal performance"
 
   experience:
     title: "Experience"
@@ -153,112 +153,78 @@ resume:
         period: "2005 - 2014"
         text: "As a Developer at Petchey Leisure, I led the design and development of proprietary software in .Net Framework and MSSQL for managing vacations of over 200,000 customers. I also performed business analysis and created technical specifications. Additionally, I designed and maintained web pages, developed customer management tools, online payment systems, and booking engines. My experience in creating scalable software and leading complex projects makes me an ideal candidate for Technical Lead or Data Analyst roles, with a track record of delivering innovative solutions and improving processes"
 
+### Pricing [ pricing ]
+pricing:
+  title: "Pricing"
+  subtitle: "my <b>Price Board</b>"
+  bg_title: "Pricing"
 
-### Testimonials [ testimonials ]
-###testimonials:
-###  title: "Testimonials"
-###  subtitle: "what <b>Customers Say</b>"
-###  bg_title: "Reviews"
-###
-###  items:
-###    - image: "assets/img/testimonials/testi4-2.jpg"
-###      name: "Barbara Wilson"
-###      role: "CEO Company"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-###
-###    - image: "assets/img/testimonials/testi4-1.jpg"
-###      name: "Charlie Smith"
-###      role: "Designer"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-###
-###    - image: "assets/img/testimonials/testi4-4.jpg"
-###      name: "Roy Wang"
-###      role: "Manager GYM"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-###
-###    - image: "assets/img/testimonials/testi4-3.jpg"
-###      name: "Jennifer Smith"
-###      role: "CEO &amp; Founder"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-###
-###    - image: "assets/img/testimonials/testi4-5.jpg"
-###      name: "Paul Freeman"
-###      role: "Photographer"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-###
-###
-###### Pricing [ pricing ]
-###pricing:
-###  title: "Pricing"
-###  subtitle: "my <b>Price Board</b>"
-###  bg_title: "Pricing"
-###
-###  items:
-###    - name: "Hourley Basis"
-###      center: false
-###      price: "39 <b>$</b>"
-###      price_after: "Hour"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-###      list:
-###        - value: "Brand Design"
-###          included: true
-###        - value: "Web Development"
-###          included: true
-###        - value: "Advertising"
-###          included: false
-###        - value: "Photography"
-###          included: false
-###      button:
-###        label: "Start Project"
-###        link: "#contact-section"
-###
-###    - name: "Freelancing"
-###      center: true
-###      label: "Popular"
-###      price: "259 <b>$</b>"
-###      price_after: "Week"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-###      list:
-###        - value: "Brand Design"
-###          included: true
-###        - value: "Web Development"
-###          included: true
-###        - value: "Advertising"
-###          included: true
-###        - value: "Photography"
-###          included: false
-###      button:
-###        label: "Start Project"
-###        link: "#contact-section"
-###
-###    - name: "Full Time"
-###      center: false
-###      price: "1.249 <b>$</b>"
-###      price_after: "Month"
-###      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-###      list:
-###        - value: "Brand Design"
-###          included: true
-###        - value: "Web Development"
-###          included: true
-###        - value: "Advertising"
-###          included: true
-###        - value: "Photography"
-###          included: true
-###      button:
-###        label: "Start Project"
-###        link: "#contact-section"
-###
-###
-###### Blog [ blog ]
-####items generates from dir /_posts/*
-###blog:
-###  title: "Latest Blog"
-###  subtitle: "my <b>Articles and Advice</b>"
-###  bg_title: "Blog"
-###  button:
-###    label: "View Blog"
-###    link: "blog/"
+  items:
+    - name: "Hourley Basis"
+      center: false
+      price: "60 <b>€</b>"
+      price_after: "Hour"
+      text: "Value-added services such as custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting"
+      list:
+        - value: "Real-time data collection system development"
+          included: true
+        - value: "Advanced data streaming techniques implementation"
+          included: true
+        - value: "Backend and API development"
+          included: true
+        - value: "Efficient ETL process creation"
+          included: true
+      button:
+        label: "Start Project"
+        link: "#contact-section"
+
+    - name: "Freelancing"
+      center: true
+      label: "Popular"
+      price: "1.750 <b>€</b>"
+      price_after: "Week"
+      text: "Comprehensive services including custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting for your projects"
+      list:
+        - value: "Real-time data collection system development"
+          included: true
+        - value: "Advanced data streaming techniques implementation"
+          included: true
+        - value: "Backend and API development"
+          included: true
+        - value: "Efficient ETL process creation"
+          included: true
+      button:
+        label: "Start Project"
+        link: "#contact-section"
+
+    - name: "Full Time"
+      center: false
+      price: "Contact <b>Me</b"
+      price_after: "Month"
+      text: "As a full-time freelance professional working for a client, I can offer valuable services such as end-to-end software development, data analysis and insights, system architecture design and implementation, API development and integration, continuous improvement of processes and technologies, and technical consultation for strategic decision-making"
+      list:
+        - value: "Real-time data collection system development"
+          included: true
+        - value: "Advanced data streaming techniques implementation"
+          included: true
+        - value: "Backend and API development"
+          included: true
+        - value: "Efficient ETL process creation"
+          included: true
+      button:
+        label: "Start Project"
+        link: "#contact-section"
+
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+blog:
+  title: "Latest Blog"
+  subtitle: "my <b>Articles and Advice</b>"
+  bg_title: "Blog"
+  button:
+    label: "View Blog"
+    link: "blog/"
 
 
 ### Contact [ contacts ]
