@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Kit Digital Transformación digital para autónomos y pymes (ES)"
+title:  "Kit Digital, Transformación digital para autónomos y pymes (ES)"
 date:   2023-04-10
 category: Kit Digital
-image: assets/images/kitdigital.png
+image: assets/img/blog/kit-digital.png
 author: Carlos Bourque
 tags: kit digital
 video: 
@@ -38,7 +38,7 @@ El Programa Acelera pyme es la iniciativa del Ministerio de Asuntos Económicos 
 
 Está desarrollado por Red.es, entidad dependiente de la Secretaría de Estado de Digitalización e Inteligencia Artificial, y se enmarca en el Plan de Digitalización de Pymes 2021 – 2025, que cuenta con más de 4.000 millones de euros de presupuesto.
 
-Acelera pyme persigue los siguientes objetivos:
+### Acelera pyme persigue los siguientes objetivos:
 
 - Impulsar la transformación digital de las pymes españolas, con herramientas como el asesoramiento y la formación.
 - Proporcionar una plataforma para generar un ecosistema digital y comunidad nacional en torno a la transformación digital, siendo este el punto neurálgico que conecte a todos los grupos de interés unificando capacidades.
@@ -47,7 +47,7 @@ Acelera pyme persigue los siguientes objetivos:
 
 ## Kit Digital
 
-[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/fI_Y5W25hPs/mqdefault.jpg)](https://www.youtube.com/watch?v=fI_Y5W25hPs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fI_Y5W25hPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 También puede visitar el [Kit Digital](https://acelerapyme.es/kit-digital/soluciones-digitales) para obtener más información sobre soluciones digitales.
 
