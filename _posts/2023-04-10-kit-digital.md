@@ -16,15 +16,15 @@ La digitalización de documentos y procesos no solo es más rápida y eficiente,
 
 Ofrezco una amplia gama de servicios, que incluyen:
 
-- Sitio web y Presencia básica en internet - *Hasta 2.000€*
-- Comercio Electrónico - *Hasta 2.000€*
-- Gestión de clientes - *Hasta 4.000€*
-- BI y analítica - *Hasta 4.000€*
-- Servicios y herramientas de oficina virtual - *Hasta 12.000€*
-- Gestión de procesos - *Hasta 6.000€*
-- Factura electrónica - *Hasta 2.000€*
-- Presencia avanzada en internet - *Hasta 2.000€*
-- Marketplace - *Hasta 2.000€*
+- **Sitio web y Presencia básica en internet** - *Hasta 2.000€*
+- **Comercio Electrónico** - *Hasta 2.000€*
+- **Gestión de clientes** - *Hasta 4.000€*
+- **BI y analítica** - *Hasta 4.000€*
+- **Servicios y herramientas** de oficina virtual - *Hasta 12.000€*
+- **Gestión de procesos** - *Hasta 6.000€*
+- **Factura electrónica** - *Hasta 2.000€*
+- **Presencia avanzada en internet** - *Hasta 2.000€*
+- **Marketplace** - *Hasta 2.000€*
 
 Si tu empresa está buscando mejorar su eficiencia y productividad a través de la digitalización, no dudes en contactarme. Estaré encantado de trabajar contigo y ayudarte a alcanzar tus objetivos.
 
