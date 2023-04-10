@@ -37,6 +37,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bourque.es" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
+# Google
+google_analytics: UA-158204914-1
+
 # paginations & permalinks
 paginate: 6
 paginate_path: "/blog/page:num/"
