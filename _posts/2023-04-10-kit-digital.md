@@ -3,7 +3,7 @@ layout: post
 title:  "Kit Digital Transformación digital para autónomos y pymes (ES)"
 date:   2023-04-10
 category: Kit Digital
-image: assets/imgages/kitdigital.png
+image: assets/images/kitdigital.png
 author: Carlos Bourque
 tags: kit digital
 video: 
@@ -47,7 +47,7 @@ Acelera pyme persigue los siguientes objetivos:
 
 ## Kit Digital
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fI_Y5W25hPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/fI_Y5W25hPs/mqdefault.jpg)](https://www.youtube.com/watch?v=fI_Y5W25hPs)
 
 También puede visitar el [Kit Digital](https://acelerapyme.es/kit-digital/soluciones-digitales) para obtener más información sobre soluciones digitales.
 
