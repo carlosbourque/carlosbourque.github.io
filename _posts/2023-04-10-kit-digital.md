@@ -51,4 +51,4 @@ Está desarrollado por Red.es, entidad dependiente de la Secretaría de Estado d
 
 También puede visitar el [Kit Digital](https://acelerapyme.es/kit-digital/soluciones-digitales) para obtener más información sobre soluciones digitales.
 
-¡No esperes más para dar el salto hacia la digitalización! Contacta conmigo hoy mismo y juntos podremos hacer que tu empresa sea más eficiente y competitiva.
+¡No esperes más para dar el salto hacia la digitalización! [Contacta](https://bourque.es/#contact-section) conmigo hoy mismo y juntos podremos hacer que tu empresa sea más eficiente y competitiva.
