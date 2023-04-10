@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Kit Digital - Transformación digital para autónomos y pymes"
+title:  "Kit Digital Transformación digital para autónomos y pymes (ES)"
 date:   2023-04-10
 category: Kit Digital
-image: assets/img/blog/blog9.jpg
+image: assets/imgages/kitdigital.png
 author: Carlos Bourque
 tags: kit digital
 video: 
   id: fI_Y5W25hPs
 ---
-
-# Servicios de digitalización de documentos y gestión de datos
 
 ¡Hola! Soy Carlos Bourque, un agente digitalizador con más de 18 años de experiencia en el campo. Me encargo de ayudar a empresas y organizaciones a digitalizar sus procesos y documentos para mejorar su eficiencia y productividad.
 
@@ -27,12 +25,25 @@ Si tu empresa está buscando mejorar su eficiencia y productividad a través de 
 
 ## ¿Por qué elegir a Carlos Bourque?
 
-- Experiencia: Con más de 10 años en el campo, puedo asegurarte que tengo el conocimiento y las habilidades necesarias para ayudarte en tu proyecto de digitalización.
+- Experiencia: Con más de 18 años en el campo, puedo asegurarte que tengo el conocimiento y las habilidades necesarias para ayudarte en tu proyecto de digitalización.
 - Personalización: Cada empresa tiene necesidades únicas, por lo que ofrezco soluciones personalizadas para cada cliente.
 - Calidad: Me esfuerzo por ofrecer siempre un trabajo de alta calidad y cumplir con las expectativas de mis clientes.
 - Confidencialidad: La información de tus documentos y procesos será tratada con la máxima confidencialidad y seguridad.
 
 Para obtener más información sobre mis servicios, visite mi sitio web.
+
+## Sobre Acelera pyme
+
+El Programa Acelera pyme es la iniciativa del Ministerio de Asuntos Económicos y Transformación Digital destinada a construir el ecosistema de referencia de la transformación digital de las pymes.
+
+Está desarrollado por Red.es, entidad dependiente de la Secretaría de Estado de Digitalización e Inteligencia Artificial, y se enmarca en el Plan de Digitalización de Pymes 2021 – 2025, que cuenta con más de 4.000 millones de euros de presupuesto.
+
+Acelera pyme persigue los siguientes objetivos:
+
+- Impulsar la transformación digital de las pymes españolas, con herramientas como el asesoramiento y la formación.
+- Proporcionar una plataforma para generar un ecosistema digital y comunidad nacional en torno a la transformación digital, siendo este el punto neurálgico que conecte a todos los grupos de interés unificando capacidades.
+- Ofrecer servicios de alto valor para impulsar la transformación digital del mayor número de pymes.
+- Promover otros objetivos prioritarios o estratégicos del Gobierno como pueden ser el Emprendimiento, los Objetivos de Desarrollo Sostenible o el fomento de sectores estratégicos.
 
 ## Kit Digital
 
