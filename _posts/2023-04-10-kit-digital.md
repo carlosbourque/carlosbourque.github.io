@@ -47,6 +47,8 @@ Acelera pyme persigue los siguientes objetivos:
 
 ## Kit Digital
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fI_Y5W25hPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 También puede visitar el [Kit Digital](https://acelerapyme.es/kit-digital/soluciones-digitales) para obtener más información sobre soluciones digitales.
 
 ¡No esperes más para dar el salto hacia la digitalización! Contacta conmigo hoy mismo y juntos podremos hacer que tu empresa sea más eficiente y competitiva.
