@@ -38,7 +38,7 @@ url: "https://bourque.es" # the base hostname & protocol for your site, e.g. htt
 date_format: "%d %B %Y"
 
 # Google
-google_analytics: UA-158204914-1
+google_analytics: G-X1117RP9LS
 
 # paginations & permalinks
 paginate: 6
