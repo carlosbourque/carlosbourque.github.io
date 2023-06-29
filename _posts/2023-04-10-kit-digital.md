@@ -10,6 +10,8 @@ video:
   id: fI_Y5W25hPs
 ---
 
+<img src="/assets/img/blog/logo-digitalizadores.png" alt="Logo Agente Digitalizador" />
+
 ¡Hola! Soy Carlos Bourque, un agente digitalizador con más de 18 años de experiencia en el campo. Me encargo de ayudar a empresas y organizaciones a digitalizar sus procesos y documentos para mejorar su eficiencia y productividad.
 
 La digitalización de documentos y procesos no solo es más rápida y eficiente, sino que también permite un mayor acceso y control de la información. Mi objetivo es ayudar a mis clientes a aprovechar al máximo las ventajas que ofrece la digitalización.
