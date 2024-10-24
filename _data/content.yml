@@ -150,6 +150,11 @@ resume:
   experience:
     title: "Experience"
     items:
+      - name: "Data Principal Engineer"
+        subname: "Schroders"
+        period: "June 2023 - <b>Present</b>"
+        text: "As a Data Principal Engineer at Schroders, I am responsible for leading the design and implementation of data solutions, ensuring data quality and integrity, and driving data strategy. I work closely with cross-functional teams to deliver data-driven insights and solutions that support business objectives. My role involves leveraging advanced data technologies and best practices to optimize data processes and deliver high-quality data products."
+
       - name: "Technical Lead, Product Owner"
         subname: "Connectorfy"
         period: "2020 - <b>Present</b>"
@@ -164,11 +169,6 @@ resume:
         subname: "Leisure Dimensions Limited"
         period: "2005 - 2014"
         text: "As a Developer at Petchey Leisure, I led the design and development of proprietary software in .Net Framework and MSSQL for managing vacations of over 200,000 customers. I also performed business analysis and created technical specifications. Additionally, I designed and maintained web pages, developed customer management tools, online payment systems, and booking engines. My experience in creating scalable software and leading complex projects makes me an ideal candidate for Technical Lead or Data Analyst roles, with a track record of delivering innovative solutions and improving processes"
-
-      - name: "Data Principal Engineer"
-        subname: "Schroders"
-        period: "June 2023 - <b>Present</b>"
-        text: "As a Data Principal Engineer at Schroders, I am responsible for leading the design and implementation of data solutions, ensuring data quality and integrity, and driving data strategy. I work closely with cross-functional teams to deliver data-driven insights and solutions that support business objectives. My role involves leveraging advanced data technologies and best practices to optimize data processes and deliver high-quality data products."
 
 ### Pricing [ pricing ]
 pricing:
