@@ -150,6 +150,11 @@ resume:
   experience:
     title: "Experience"
     items:
+      - name: "Data Principal Engineer"
+        subname: "Schroders"
+        period: "June 2023 - <b>Present</b>"
+        text: "As a Data Principal Engineer at Schroders, I am responsible for leading the design and implementation of data solutions, ensuring data quality and integrity, and driving data strategy. I work closely with cross-functional teams to deliver data-driven insights and solutions that support business objectives. My role involves leveraging advanced data technologies and best practices to optimize data processes and deliver high-quality data products."
+
       - name: "Technical Lead, Product Owner"
         subname: "Connectorfy"
         period: "2020 - <b>Present</b>"
