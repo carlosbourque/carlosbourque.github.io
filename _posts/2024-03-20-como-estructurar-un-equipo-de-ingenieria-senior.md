@@ -2,8 +2,7 @@
 layout: post
 title: "Cómo estructurar un equipo de ingeniería senior sin intermediarios"
 date: 2024-03-20
-category:
-  - WantedForCode
+category: WantedForCode
 image: assets/img/blog/storage.jpg
 author: Carlos Bourque
 tags: ingeniería equipos liderazgo

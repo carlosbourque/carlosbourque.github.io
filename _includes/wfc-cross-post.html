@@ -1,0 +1,9 @@
+{% if page.canonical_url and page.canonical_url contains "wantedforcode.com" %}
+<div class="wfc-cross-post-notice">
+  <p>Este artículo también está disponible en el blog de <a href="{{ page.canonical_url | escape }}" target="_blank" rel="noopener">WantedForCode</a>.</p>
+</div>
+
+<div class="wfc-author-bio">
+  <p>Soy <strong>Carlos Bourque</strong>, partner en <a href="https://wantedforcode.com" target="_blank" rel="noopener">WantedForCode</a> — una consultora española de ingeniería de software senior. Si estás buscando un equipo técnico sin intermediarios, hablamos → <a href="https://wantedforcode.com" target="_blank" rel="noopener">wantedforcode.com</a></p>
+</div>
+{% endif %}
