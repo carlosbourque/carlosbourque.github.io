@@ -9,15 +9,15 @@ hero:
   image_alt: "Carlos Bourque"
   title: "<b>Carlos</b> Bourque"
   before_title: "Hello, <b>my name is</b>"
-  after_title: "I am Freelance <strong>.Net Software Developer</strong>"
-  description: "Freelance Software Developer specialized in Azure, C# and T-SQL. Delivering scalable and secure cloud solutions. Committed to excellence and customer satisfaction."
+  after_title: "Senior Software Engineer · Partner at <strong>WantedForCode</strong>"
+  description: "Senior software engineer and technical lead building custom software, mobile apps and applied AI systems for businesses across Europe. Partner at <a href=\"https://wantedforcode.com\" target=\"_blank\" rel=\"noopener\">WantedForCode</a>."
   button1:
+    label: "Visit WantedForCode"
+    link: "https://wantedforcode.com"
+  button2:
     label: "Download CV"
     link: "assets/documents/carlosbourque.pdf"
-  button2:
-    label: "My Skills"
-    link: "#skills-section"
-  bg_title: ".Net Software Developer"
+  bg_title: "Senior Engineer"
   info:
     - num: "18 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
@@ -32,35 +32,29 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "C# Programming"
-      subtitle: "Backend Development"
-      text: "Backend development, API development using C#, Entity Framework."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Custom Software Development"
+      subtitle: "Backend & Cloud"
+      text: "End-to-end software development with C#, .NET and Azure. Scalable, secure and maintainable systems tailored to your business. Delivered through <a href=\"https://wantedforcode.com\" target=\"_blank\" rel=\"noopener\">WantedForCode</a>."
+      button_label: "Visit WantedForCode"
+      button_link: "https://wantedforcode.com"
 
-    - title: "Azure Cloud"
-      subtitle: "Cloud Computing"
-      text: "Architecting, designing and developing cloud solutions using Azure cloud services. Creating scalable and secure cloud solutions."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Mobile Apps"
+      subtitle: "iOS & Android"
+      text: "Cross-platform mobile applications built with modern frameworks. From concept to App Store and Play Store. See our work at <a href=\"https://wantedforcode.com\" target=\"_blank\" rel=\"noopener\">WantedForCode</a>."
+      button_label: "Visit WantedForCode"
+      button_link: "https://wantedforcode.com"
 
-    - title: "Database Architecture"
-      subtitle: "Database Design"
-      text: "Database design, architecture and development using T-SQL. MSSQL on-premise and Azure SQL Database."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Applied AI Systems"
+      subtitle: "AI & Data"
+      text: "Practical AI and data solutions: intelligent automation, data pipelines, LLM integrations and analytics. Building real business value with AI through <a href=\"https://wantedforcode.com\" target=\"_blank\" rel=\"noopener\">WantedForCode</a>."
+      button_label: "Visit WantedForCode"
+      button_link: "https://wantedforcode.com"
 
-    - title: "Azure Devops"
-      subtitle: "CI/CD Pipelines"
-      text: "Building CI/CD pipelines using Azure DevOps. Creating automated build and deployment pipelines for .NET applications, databases and Azure infrastructure."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
-
-    - title: "Team Leadership"
-      subtitle: "Team Management"
-      text: "Manage and lead teams of multidisciplinary professionals. Using Agile methodologies to deliver high quality software solutions."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Technical Leadership"
+      subtitle: "Team & Strategy"
+      text: "Fractional CTO and technical lead services. Architecture reviews, team building and engineering strategy for scale-ups and enterprises, backed by the <a href=\"https://wantedforcode.com\" target=\"_blank\" rel=\"noopener\">WantedForCode</a> team."
+      button_label: "Visit WantedForCode"
+      button_link: "https://wantedforcode.com"
 
 ### Skills [ skills ]
 skills:
@@ -172,65 +166,65 @@ resume:
 
 ### Pricing [ pricing ]
 pricing:
-  title: "Pricing"
-  subtitle: "my <b>Price Board</b>"
+  title: "Work With Us"
+  subtitle: "via <b>WantedForCode</b>"
   bg_title: "Pricing"
 
   items:
-    - name: "Hourley Basis"
+    - name: "Discovery Call"
       center: false
-      price: "57 <b>€</b>"
-      price_after: "Hour"
-      text: "Value-added services such as custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting<br /><br /><br /><br /><br/>"
+      price: "Free"
+      price_after: ""
+      text: "Tell us about your project. We'll explore how WantedForCode can help you build the right product with the right team.<br /><br /><br /><br /><br/>"
       list:
-        - value: "Real-time data collection system development"
+        - value: "Custom software development"
           included: true
-        - value: "Advanced data streaming techniques implementation"
+        - value: "Mobile apps (iOS & Android)"
           included: true
-        - value: "Backend and API development"
+        - value: "Applied AI & data systems"
           included: true
-        - value: "Efficient ETL process creation"
+        - value: "Technical leadership"
           included: true
       button:
-        label: "Start Project"
-        link: "#contact-section"
+        label: "Book a Call"
+        link: "https://wantedforcode.com"
 
-    - name: "Freelancing"
+    - name: "Project Team"
       center: true
       label: "Popular"
-      price: "1.750 <b>€</b>"
-      price_after: "Week"
-      text: "Comprehensive services including custom software development, data analysis, system architecture design, API development, development environment setup, and technical consulting for your projects<br /><br /><br /><br/>"
-      list:
-        - value: "Real-time data collection system development"
-          included: true
-        - value: "Advanced data streaming techniques implementation"
-          included: true
-        - value: "Backend and API development"
-          included: true
-        - value: "Efficient ETL process creation"
-          included: true
-      button:
-        label: "Start Project"
-        link: "#contact-section"
-
-    - name: "Full Time"
-      center: false
-      price: "Contact <b>Me</b>"
+      price: "Contact <b>Us</b>"
       price_after: ""
-      text: "As a full-time freelance professional working for a client, I can offer valuable services such as end-to-end software development, data analysis and insights, system architecture design and implementation, API development and integration, continuous improvement of processes and technologies, and technical consultation for strategic decision-making"
+      text: "A dedicated senior engineering team for your project. Full-stack, mobile, AI or data — we assemble the right people for the job.<br /><br /><br /><br/>"
       list:
-        - value: "Real-time data collection system development"
+        - value: "Senior engineers on demand"
           included: true
-        - value: "Advanced data streaming techniques implementation"
+        - value: "Agile delivery & full transparency"
           included: true
-        - value: "Backend and API development"
+        - value: "Fixed price or time & materials"
           included: true
-        - value: "Efficient ETL process creation"
+        - value: "Europe-based, remote-first"
           included: true
       button:
-        label: "Start Project"
-        link: "#contact-section"
+        label: "Get a Quote"
+        link: "https://wantedforcode.com"
+
+    - name: "All Services"
+      center: false
+      price: "See <b>More</b>"
+      price_after: ""
+      text: "Visit wantedforcode.com to see our full service catalogue, case studies and the team behind every project we deliver."
+      list:
+        - value: "Custom software"
+          included: true
+        - value: "Mobile apps"
+          included: true
+        - value: "AI systems"
+          included: true
+        - value: "Technical leadership"
+          included: true
+      button:
+        label: "wantedforcode.com"
+        link: "https://wantedforcode.com"
 
 
 ### Blog [ blog ]
@@ -255,9 +249,9 @@ contacts:
       icon: "far fa-map"
       text: "Fuengirola, Málaga, Spain"
 
-    - label: "Freelance"
-      icon: "far fa-user"
-      text: "Available Right Now"
+    - label: "Company"
+      icon: "far fa-building"
+      text: "WantedForCode"
 
     - label: "Email"
       icon: "far fa-envelope"
