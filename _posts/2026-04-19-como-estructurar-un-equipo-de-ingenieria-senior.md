@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo estructurar un equipo de ingeniería senior sin intermediarios"
-date: 2024-03-20
+date: 2026-04-19
 category: WantedForCode
 image: assets/img/blog/storage.jpg
 author: Carlos Bourque
