@@ -5377,6 +5377,8 @@ a.wp-block-button__link {
 	}
 	.section.hero-started .title {
 		font-size: 40px;
+		color: #000;
+		text-shadow: none;
 	}
 	.section.hero-started .lui-subtitle {
 		font-size: 13px;
@@ -5634,6 +5636,57 @@ a.wp-block-button__link {
 	}
 	.footer .copyright-text, .footer .footer-heading {
 		text-align: center!important;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	/* Adaptive font sizes for small screens */
+	h1 {
+		font-size: 24px;
+	}
+
+	/* Header padding adjustments */
+	.header {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+
+	/* Hero title on small screens */
+	.section.hero-started .title {
+		font-size: 28px;
+	}
+	.section.hero-started .content {
+		padding-top: 60px;
+	}
+	.section.hero-started .description {
+		padding: 20px 0;
+		font-size: 15px;
+	}
+
+	/* Section inner headings */
+	.section.section-inner.started-heading {
+		padding-top: 100px;
+		padding-bottom: 50px;
+	}
+	.section.section-inner.started-heading .m-titles .m-title {
+		font-size: 24px;
+	}
+	.m-titles .m-title {
+		font-size: 20px;
+	}
+
+	/* Overlay for hero slide background image - sits above the photo (z-index: 10) but below the info-list (z-index: 12) */
+	.section.hero-started .slide::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.3);
+		z-index: 11;
+		border-radius: 380px;
+		pointer-events: none;
 	}
 }
 
