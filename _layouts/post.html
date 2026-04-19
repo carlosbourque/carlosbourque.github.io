@@ -61,9 +61,9 @@ layout: default
 					<div class="post-content scrolla-element-anim-1 scroll-animate" data-animate="active">
 						{{ page.content }}
 
-						{% if page.canonical_url contains "wantedforcode.com" %}
+						{% if page.canonical_url and page.canonical_url contains "wantedforcode.com" %}
 						<div class="wfc-cross-post-notice">
-							<p>Este artículo también está disponible en el blog de <a href="{{ page.canonical_url }}" target="_blank" rel="noopener">WantedForCode</a>.</p>
+							<p>Este artículo también está disponible en el blog de <a href="{{ page.canonical_url | escape }}" target="_blank" rel="noopener">WantedForCode</a>.</p>
 						</div>
 
 						<div class="wfc-author-bio">
