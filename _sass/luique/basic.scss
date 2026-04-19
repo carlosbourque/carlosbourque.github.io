@@ -4696,6 +4696,35 @@ h5.comment-box__details {
 	font-weight: 900;
 }
 
+.wfc-cross-post-notice {
+	margin-top: 40px;
+	padding: 16px 20px;
+	border-left: 3px solid #888;
+	font-size: 14px;
+	opacity: 0.8;
+
+	p {
+		margin: 0;
+	}
+}
+
+.wfc-author-bio {
+	margin-top: 40px;
+	padding: 24px 28px;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	border-radius: 4px;
+
+	p {
+		margin: 0;
+		font-size: 15px;
+		line-height: 1.7;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+}
+
 .tags-links {
 	padding-top: 30px;
 	display: block;
