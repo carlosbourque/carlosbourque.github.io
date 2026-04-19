@@ -61,6 +61,16 @@ layout: default
 					<div class="post-content scrolla-element-anim-1 scroll-animate" data-animate="active">
 						{{ page.content }}
 
+						{% if page.canonical_url contains "wantedforcode.com" %}
+						<div class="wfc-cross-post-notice">
+							<p>Este artículo también está disponible en el blog de <a href="{{ page.canonical_url }}" target="_blank" rel="noopener">WantedForCode</a>.</p>
+						</div>
+
+						<div class="wfc-author-bio">
+							<p>Soy <strong>Carlos Bourque</strong>, partner en <a href="https://wantedforcode.com" target="_blank" rel="noopener">WantedForCode</a> — una consultora española de ingeniería de software senior. Si estás buscando un equipo técnico sin intermediarios, hablamos → <a href="https://wantedforcode.com" target="_blank" rel="noopener">wantedforcode.com</a></p>
+						</div>
+						{% endif %}
+
 						<!--
 						<div class="social-share" data-title="{{ page.title }}" data-url="{{ page.url | absolute_url }}">
 							<span>{{ ui_text.share }}:</span>
